@@ -1,0 +1,75 @@
+[DEVICE]
+Name=AT89C51
+Clock=11059200
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=my_washing machine.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[PLL_FACTOR]
+Value=1
+[FILES]
+Count=1
+File0=my_washing machine.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=my_washing machine.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=3
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\defs\
+Path1=C:\Users\SLDUB\Desktop\ASSESS\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for 8051\Uses\ATMEL\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=27
+File0=Button
+File1=Conversions
+File2=C_Math
+File3=C_Stdlib
+File4=C_String
+File5=C_Type
+File6=Glcd
+File7=Glcd_Fonts
+File8=Keypad4x4
+File9=Lcd
+File10=Lcd_Constants
+File11=Manchester
+File12=One_Wire
+File13=PrintOut
+File14=PS2
+File15=RS485
+File16=Software_I2C
+File17=Software_SPI
+File18=Software_UART
+File19=Sound
+File20=Sprintf
+File21=Sprinti
+File22=Sprintl
+File23=T6963C
+File24=Time
+File25=Trigonometry
+File26=UART
+[EXPANDED NODES]
+Node1=Sources
+Count=1
